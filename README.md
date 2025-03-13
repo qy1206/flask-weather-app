@@ -31,7 +31,4 @@ pip install -r requirements.txt
 # Run the Flask app
 python server.py
 
-## API Used 🌍
-This application fetches weather data from OpenWeather API (or any other weather API you are using).  
-Ensure you have an API key and set it up correctly in your project.
 
